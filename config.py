@@ -30,7 +30,7 @@ FFMPEG_CMDS = {"merge": ["-f concat -safe 0 -i mltb.txt -c copy mltb.mp4 -del"]}
 UPLOAD_PATHS = {}
 FILES_LINKS = False
 # GDrive Tools
-GDRIVE_ID = "1LRMw4LclRtkuB9jXHljKdd74KuafMl6M"
+GDRIVE_ID = "12-mKJDyelDF7ElvmSJanEefBRbqyNHuG"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
