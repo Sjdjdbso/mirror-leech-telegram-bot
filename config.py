@@ -7,7 +7,7 @@ TELEGRAM_HASH = "d9d381dd4b7d5f246215d16101d0900d"
 TG_PROXY = {}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+AUTHORIZED_CHATS = "-1003950452209"
 SUDO_USERS = ""
 DATABASE_URL = "mongodb+srv://nazzawa09:nazzawa09@cluster0.umth574.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DATABASE_NAME = "mltb"
@@ -79,7 +79,7 @@ MEDIA_GROUP = False
 USER_TRANSMISSION = False
 HYBRID_LEECH = False
 LEECH_FILENAME_PREFIX = ""
-LEECH_DUMP_CHAT = ""
+LEECH_DUMP_CHAT = "-1003950452209/12684"
 CLONE_DUMP_CHATS = ""
 THUMBNAIL_LAYOUT = ""
 # qBittorrent/Aria2c
